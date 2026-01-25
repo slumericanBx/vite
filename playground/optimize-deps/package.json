@@ -28,7 +28,7 @@
     "@vitejs/test-dep-with-optional-peer-dep": "file:./dep-with-optional-peer-dep",
     "@vitejs/test-dep-non-optimized": "file:./dep-non-optimized",
     "@vitejs/test-added-in-entries": "file:./added-in-entries",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "@vitejs/test-nested-exclude": "file:./nested-exclude",
     "phoenix": "^1.6.16",
     "react": "^18.2.0",
@@ -37,7 +37,7 @@
     "url": "^0.11.0",
     "vue": "^3.2.47",
     "vuex": "^4.1.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lodash.clonedeep": "^4.5.0"
   }
 }
